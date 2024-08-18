@@ -1,16 +1,32 @@
-## Hi there 👋
+# :vulcan_salute: Olá, Eu sou o Andrey! 
 
-<!--
-**AndreySA04/AndreySA04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left" style="text-align: justify">
+  
+Meu nome é Andrey de Souza Almeida, seja bem vindo(a) ao meu perfil. Sou **Desenvolvedor Web Front-End** desde 2023, atualmente sou Desenvolvedor Front-End e trabalho como Freelancer desenvolvendo códigos para empresas e estudando em outras áreas da programação, masis voltado atualmente para o mobile.
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Andrey_as)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrey_as04/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-as04/)
+<a href="mailto:andrey0404.as@gmail.com">
+<img src="https://media.tenor.com/kGe0A0NBA8kAAAAi/one-piece-pixel.gif" width="50px" />
+</a>
+### Cargos:
+- Desenvolvedor Full Stack - RXCT (Radx Ciência e Tecnologia)
+- Desenvolvedor Front End - Freelancer
+
+### Formações:
+- Técnico em Análise e Desenvolvimento de Sistemas - Senai Zerbini 
+- Análise e Desenvolvimento de Sistemas - Fatec Indaiatuba 
+  
+### Já trabalhei com:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,figma,cs,postgres,mysql,docker)](https://skillicons.dev)
+
+### Estou estudando:
+[![My Skills](https://skillicons.dev/icons?i=nodejs,dart,flutter,firebase)](https://skillicons.dev)
+
+![Andrey GitHub stats](https://github-readme-stats.vercel.app/api?username=andreysa04&show_icons=true&theme=radical)
+
+![](https://komarev.com/ghpvc/?username=andreysa04&color=000000)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=jessicamedeirosp&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/andreysa04?label=Follow&style=social)
