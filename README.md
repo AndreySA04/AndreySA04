@@ -13,8 +13,8 @@ Meu nome é Andrey de Souza Almeida, seja bem vindo(a) ao meu perfil. Sou **Dese
 <img src="https://media.tenor.com/kGe0A0NBA8kAAAAi/one-piece-pixel.gif" width="50px" />
 </a>
 ### Cargos:
-- Desenvolvedor Full Stack - RXCT (Radx Ciência e Tecnologia)
 - Desenvolvedor Front End - Freelancer
+- Desenvolvedor Full Stack - RXCT (Radx Ciência e Tecnologia)
 
 ### Formações:
 - Técnico em Análise e Desenvolvimento de Sistemas - Senai Zerbini 
