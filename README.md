@@ -29,4 +29,4 @@ Meu nome é Andrey de Souza Almeida, seja bem vindo(a) ao meu perfil. Sou **Dese
 ![Andrey GitHub stats](https://github-readme-stats.vercel.app/api?username=andreysa04&show_icons=true&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=andreysa04&color=000000)
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=jessicamedeirosp&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/andreysa04?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/andreysa04?label=Follow&style=social)
