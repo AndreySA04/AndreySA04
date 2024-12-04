@@ -2,7 +2,7 @@
 
 <p align="left" style="text-align: justify">
   
-Meu nome é Andrey de Souza Almeida, seja bem vindo(a) ao meu perfil. Sou **Desenvolvedor Web Front-End** desde 2023, atualmente sou Desenvolvedor Front-End e trabalho como Freelancer desenvolvendo códigos para empresas e estudando em outras áreas da programação, masis voltado atualmente para o mobile.
+Meu nome é Andrey de Souza Almeida, seja bem vindo(a) ao meu perfil. Sou **Desenvolvedor Web Front-End** desde 2023, atualmente sou Desenvolvedor Front-End e trabalho como Freelancer desenvolvendo códigos para empresas e estudando em outras áreas da programação, mais voltado atualmente para o mobile.
 
 </p>
 
